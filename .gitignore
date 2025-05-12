@@ -176,3 +176,6 @@ cython_debug/
 
 movie_data.pkl
 similarity.pkl
+
+downloads_videos
+main.py
